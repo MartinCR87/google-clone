@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+}
+/* .nav {
+    border: 1px solid green;
+    
+    
+} */
+
+.links {
+    /* border: 1px solid red; */
+    display: inline-block;
+    margin-left: 83%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.puntitos {
+    max-width: 70%;
+   
+}
+
+.cuenta_google {
+    max-width: 50%;
+
+}
+
+.tag {
+    display: inline-block;
+}
+
+
+
+/* span {
+    border: solid red 1px;
+   
+
+} */
+
+.middle-box {
+    text-align: center;
+    margin: 20px 0;
+}
+
+
+.buscador {
+    border-radius: 15px;
+    border: rgb(192, 188, 188) 2px solid;
+    width: 50%;
+    margin-left: 23%;
+    margin-top: 10px;
+    
+
+
+}
+
+.iconos{
+    display: inline-block;
+}
+
+.i-der {
+
+}
+
+.lupa {
+    display: inline-block;
+    margin-right: 500px;
+
+}
+
+.micro-cam  {
+    display: inline-block;
+
+}
+
+
+.redondo {
+    
+    display: inline-block;
+    margin: 30px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 14px;
+    border-radius: 15px;
+    padding: 0 16px;
+    
+}
+
+.redondo:hover {
+    border: gray 2px solid;
+}
+
+.footer-1 {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+    background-color: #f4f3f1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 533;
+    
+}
+
+.mexico {
+    padding-left: 30px;
+}
+
+.sin-sub {
+    text-decoration: none;
+}
+
+.footer-2 {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+    background-color: #f4f3f1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 533;
+}
+
+.end-links-left {
+    display: inline-block;
+    margin-right: 255px;
+    text-decoration: none;
+    
+}
+
+.end-links-rignt {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.footer-font {
+    display: inline-block;
+    padding-left: 30px;
+
+
+}
+
